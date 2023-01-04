@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pierremigeon
-- ☝️ I have a BS in Biology, and MS in Genetics. I am a former life sciences research who remains interested and educated in these areas but has been exploring software recently. My interest in software originated from my experience performing computational analyis of sequencing data.
+- ☝️  I am a former life sciences researcher who remains interested and educated in these areas but has been exploring software recently.
 - 👀 I’m interested in Genetics, C, data, and software testing
 - 🌱 I spend a lot of time engaged in online learning. Currently focused on SQL and data analysis methods as well as software testing.
 - 💞️ Looking for either manual QA internships / jobs or bioinformatics and data positions. 
