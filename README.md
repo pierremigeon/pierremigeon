@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @pierremigeon
-- ☝️  I am a former life sciences researcher who remains interested and educated in these areas but has been exploring software recently.
-- 👀 I’m interested in Genetics, C, data, and software testing
-- 🌱 I spend a lot of time engaged in online learning. Currently focused on SQL and data analysis methods as well as software testing.
-- 💞️ Looking for either manual QA internships / jobs or bioinformatics and data positions. 
-- 📫 You can reach me at my email, pi3rre.migeon@gmail.com, via twitter, LinkedIn, and even IG (@pierre.migeon) or FB. 
+- 👋 Hello, I am @pierremigeon
+- ☝️ BS biology, MS Genetics. Working on bioinformatics and data analysis during these degrees brought me here
+- 👀 I’m interested in genetics, C, python, SQL, data, software testing
+- 🌱 Love online learning, and learning in general. Autodidactic.
+- 💞️ Seeking either manual QA internships / jobs or bioinformatics and data positions. 
+- 📫 Email me @ pi3rre.migeon@gmail.com. I have many social medias, and always respond to people.
 
 <!---
 pierremigeon/pierremigeon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
