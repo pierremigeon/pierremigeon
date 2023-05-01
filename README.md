@@ -1,5 +1,5 @@
 - 👋 Hello, I am @pierremigeon
-- 🌱 I love to learn and am autodidactic. I'm constantly reading, tinkering and taking online courses.
+- 🌱 I am curious and autodidactic. I'm constantly reading, tinkering and taking online courses.
 - 🔬 I have degrees in biology and genetics and a background in scientific research (specifically, genomics).
 - 👀 I’m interested in genetics, C, python, SQL, data, software testing (among other things, and not necessarily in that order)
 - 👨‍💻 Seeking either manual QA internships / jobs or bioinformatics and data positions.
