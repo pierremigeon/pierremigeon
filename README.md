@@ -1,7 +1,7 @@
 - 👋 Hello, I am @pierremigeon
 - 🌱 I am curious and autodidactic. I'm constantly reading, tinkering and taking online courses.
 - 🔬 I have degrees in biology and genetics and a background in scientific research (specifically, genomics).
-- 📜 I am an ISTQB certified software tester
+- 📜 I am an ISTQB certified software tester https://tinyurl.com/4hfzfnr3
 - 👀 I’m into genetics, C, python, SQL, data, and testing. 
 - 👍 I like to build things, but I also like to break them and have an eye for details.
 - 👨‍💻 Seeking either manual QA internships / jobs or bioinformatics and data positions.
